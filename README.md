@@ -4,7 +4,7 @@ Pattern Recognition Master is a custom pattern detection indicator for MT4 and M
 
 Pattern Recognition Master can detect up to 14 classic candlestick patterns and issue alerts when a new pattern is spotted.
 
-![Bollinger Squeeze Advanced indicator shows some potentially good trend-based entries on the hourly EUR/USD chart](https://github.com/EarnForex/Pattern-Recognition-Master/blob/main/README_Images/pattern-recognition-master-detects-some-bullish-candlestick-patterns.png)
+![Pattern Recognition Master indicator shows some of the detected candlestick patterns](https://github.com/EarnForex/Pattern-Recognition-Master/blob/main/README_Images/pattern-recognition-master-detects-some-bullish-candlestick-patterns.png)
 
 More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Pattern-Recognition-Master/
 
