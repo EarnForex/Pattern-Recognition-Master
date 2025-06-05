@@ -6,6 +6,6 @@ Pattern Recognition Master can detect up to 14 classic candlestick patterns and 
 
 ![Pattern Recognition Master indicator shows some of the detected candlestick patterns](https://github.com/EarnForex/Pattern-Recognition-Master/blob/main/README_Images/pattern-recognition-master-detects-some-bullish-candlestick-patterns.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Pattern-Recognition-Master/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Pattern-Recognition-Master/
 
 Any contributions to the code are welcome!
